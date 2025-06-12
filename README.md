@@ -145,20 +145,6 @@ This project goes over how to enable or disable Protect Object From Accidental D
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Object tab (top).</b></span>  
-<br/>
-
-<table>
-  <tr>
-    <td><img src="https://imgur.com/xzULGcA.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/taRZx4k.png" height="100%" width="100%" /></td>
-  </tr>
-</table>
-
-<br /><br />
-
-
-<div style="text-align:center;">
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click (to check OR uncheck): Protect object from accidental deletion. A checkmark - means it is enabled. No checkmark - means it is disabled.</b></span>  
 <br/>
 
