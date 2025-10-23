@@ -103,7 +103,7 @@ This project goes over how to enable or disable Protect Object From Accidental D
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Right-Click: The organizational unit you want to delete.  Picture on the Right: Organizational Unit Symbol.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Right-Click: The organizational unit you want to protect object from accidental deletion OR unprotect object from accidental deletion.  Picture on the Right: Organizational Unit Symbol.</b></span>  
 <br/>
 
 <table>
